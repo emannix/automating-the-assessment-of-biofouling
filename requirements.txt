@@ -1,0 +1,5 @@
+torch==2.2.0
+torchvision==0.17
+
+onnx==1.15.0
+onnxruntime-gpu==1.17.1
