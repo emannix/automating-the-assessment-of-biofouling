@@ -17,3 +17,5 @@ The model achieves the following performance:
 | Discharge/other present | 0.626 	 | 
 | Anode present | 0.951 	 | 
 
+A preprint with further details on model performance will be released soon.
+
